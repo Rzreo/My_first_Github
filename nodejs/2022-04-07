@@ -1,0 +1,13 @@
+npm 키워드
+
+
+-g: 전역설치, 패키지를 하나의 실행파일인 것 처럼 사용 가능
+nodemon: nodemon으로 실행하면 코드가 변화했을 때 자동으로 재실행
+npm search (패키지 키워드): 패키지 검색
+npm info (패키지 이름): 해당 패키지의 상세한 정보가 나옴
+npmjs.com에서 검색하고 알아볼 수도 있음
+npm list: 현재 패키지가 의존하고 있는 패키지들을 나열
+npm audit: 현재 패키지의 취약점 찾기
+npm install fix: 취약점 고치기 
+cat package.json: package.json파일 정보 출력
+npm uninstall (패키지 이름): 패키지 지우기
